@@ -71,8 +71,7 @@ fcc-scientific-computing-python/
 ├── Certif.JPG
 ├── .gitignore
 └── README.md
-
-
+```
 
 ## 👤 Author
 
@@ -82,4 +81,4 @@ Learning and building projects in **Python and software development** through ha
 
 ## 🚀 About This Repository
 
-This repository is part of my programming learning journey and documents the practical projects I completed while developing my Python skills
+This repository is part of my programming learning journey and documents the practical projects I completed while developing my Python skills.
