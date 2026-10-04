@@ -52,4 +52,4 @@ I successfully completed the **freeCodeCamp Scientific Computing with Python Cer
 
 **Meria HMAMA**
 
-Learning and building projects in Python and software development.
+Learning and building projects in Python and software development
