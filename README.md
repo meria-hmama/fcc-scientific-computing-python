@@ -71,3 +71,15 @@ fcc-scientific-computing-python/
 ├── Certif.JPG
 ├── .gitignore
 └── README.md
+
+
+
+## 👤 Author
+
+**Meria HMAMA**
+
+Learning and building projects in **Python and software development** through hands-on practice.
+
+## 🚀 About This Repository
+
+This repository is part of my programming learning journey and documents the practical projects I completed while developing my Python skills
